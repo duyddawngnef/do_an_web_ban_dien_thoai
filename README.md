@@ -1,3 +1,4 @@
+```txt
 CẤU TRÚC THƯ MỤC DỰ ÁN WEB BÁN ĐIỆN THOẠI
 web-ban-dien-thoai/
 │
@@ -113,4 +114,4 @@ PHÂN CÔNG THEO THÀNH VIÊN
 6. QUỐC CƯỜNG
 •	user/products/* - Hiển thị sản phẩm
 •	user/cart/* - Giỏ hàng & Thanh toán
-
+```
